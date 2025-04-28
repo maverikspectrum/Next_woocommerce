@@ -2,8 +2,6 @@
 
 Using Next.js, TypeScript and styled-components.
 
-![demo](https://github.com/Onixaz/nextjs-woocommerce-storefront/blob/main/public/demo.gif)
-
 ## The Goal
 
 The idea behind this repo was to showcase the power of [Next.js](https://nextjs.org/) by building a frontend for [WooCommerce](https://woocommerce.com/) using nothing but [Woo's REST API](https://woocommerce.github.io/woocommerce-rest-api-docs/) only. This means truly headless and secure WooCommerce without any redirects to checkouts etc. In a true [Jamstack](https://jamstack.org/) fashion.
