@@ -2,10 +2,6 @@
 
 Using Next.js, TypeScript and styled-components.
 
-
-
-#### _WIP_
-
 ![demo](https://github.com/Onixaz/nextjs-woocommerce-storefront/blob/main/public/demo.gif)
 
 ## The Goal
