@@ -2,7 +2,7 @@
 
 Using Next.js, TypeScript and styled-components.
 
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Onixaz_nextjs-woocommerce-storefront)](https://sonarcloud.io/dashboard?id=Onixaz_nextjs-woocommerce-storefront)
+
 
 #### _WIP_
 
